@@ -19,6 +19,7 @@ Documentation
 Endpoint Usage
 ---
 **Base Url** : `http://localhost:8080/`
+
 ###Product
 
 | Endpoint               | Usage                                      | Example                             | Method |
