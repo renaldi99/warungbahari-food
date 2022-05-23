@@ -4,6 +4,12 @@ Food product api bahasa Indonesia 🇮🇩 build with java springboot
 
 **Status** : Maintained 🚀
 
+### Collection Postman
+How to use collection
+1. copy url: https://www.getpostman.com/collections/50f890b146155c954f2b
+2. open postman
+3. go to tab collections, click import via link and paste the url
+
 Documentation
 ---
 
