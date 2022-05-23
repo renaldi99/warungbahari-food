@@ -36,7 +36,7 @@ Endpoint Usage
 Show Case
 ---
 
-* List Food Warung Bahari [(React Native)](https://github.com/renaldi99)
+* List Food Warung Bahari
 
 #### Credits
 Copyright © 2020 Renaldi
